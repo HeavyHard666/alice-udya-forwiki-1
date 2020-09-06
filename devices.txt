@@ -1,1 +1,1 @@
-"id-устройства","Имя устройства","Описание","Комната","Разработчик","Модель","Вер.железа","Вер.софта","Тип Выключатель","ifttt","хук вкл","хук выкл","nostatus"
+"switch_2","Свет спальня","Люстра в спальне","Спальня","Sonoff","sonoff basic","01","01","Выключатель","any","https://HeavyHard:andreich@connect.smartliving.ru/reverse/api/method/switch_2.turnon","https://HeavyHard:andreich@connect.smartliving.ru/reverse/api/method/switch_2.turnoff","status","https://HeavyHard:andreich@connect.smartliving.ru/reverse/api/data/switch_2.status","ON"
